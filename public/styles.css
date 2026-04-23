@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f2f2f2;
+}
+
+.search {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  background: white;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.images img {
+  width: 120px;
+  margin: 5px;
+  border-radius: 6px;
+}
